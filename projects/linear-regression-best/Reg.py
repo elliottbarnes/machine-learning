@@ -90,7 +90,7 @@ def get_cv_ridge():
     predictions = final_model.predict(x_test)
     
     # write predictions to file
-    # with open('A4_predictions_02.txt', 'a') as f:
+    # with open('predictions.txt', 'a') as f:
     #     for p in predictions:
     #         f.write(str(p)+"\n")
 

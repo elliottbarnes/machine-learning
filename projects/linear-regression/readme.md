@@ -10,7 +10,8 @@ $python3 Reg.py Traindata.txt
 
 ### Where
 
-1. Filename of the tsv
+1. Filename of the program
+2. Filename of the training set
 
 
 ## Dataset
