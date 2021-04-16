@@ -6,7 +6,7 @@
 
 ## How to run 
 
-$python3 A1_KNN.py data.txt 5 15
+$python3 KNN.py data.txt 5 15
 
 ### Where
 
