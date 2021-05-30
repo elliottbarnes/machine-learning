@@ -1,8 +1,6 @@
 # Machine Learning
 
-Elliott Barnes - enbarnes@mun.ca
-
-## Projects
+## Programs
 
 * Classification
 * Cross validation
